@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    color: darkblue;
+}
+#f1{
+    background-color: beige;
+    color: crimson;
+}
+#f2{
+    background-color: darksalmon;
+    color:yellow;
+}
+.odd{
+    background-color: lightgreen;
+    color: beige;
+}
+.even{
+    background-color: lightblue;
+    color: blue;
+}
