@@ -1,0 +1,14 @@
+h1{
+    border-top-style:dashed;
+    border-bottom-style:dashed;
+    border-left-style:dotted;
+    border-left-weight:20px;
+    border-left-color:blue;
+}
+p{
+    border-style:solid;
+    border-width:10px;
+    border-color:brown;
+    border-radius: 10px;
+    padding:10px;
+}
