@@ -1,0 +1,18 @@
+body{
+    background-image :url(merlin_138716301_7655ceb3-fb5e-4354-821a-bfad8d475786-superJumbo.webp);
+    background-position: center;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    background:linear-gradient(to left,black,skyblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+        background:linear-gradient(to left,black,skyblue);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+}
