@@ -1,0 +1,17 @@
+.box1{
+    border: 10px solid;
+    height:300px;
+    width: 300px;
+    background-color: blue;
+    position: sticky; /*relative,absoulate,sticky,fixed*/
+    bottom: 50px;
+}
+.box2{
+    border: 10px solid;
+    height:100px;
+    width:100px;
+    background-color: red;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
